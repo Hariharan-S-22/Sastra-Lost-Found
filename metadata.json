@@ -1,0 +1,8 @@
+
+{
+  "name": "SASTRA Lost & Found",
+  "description": "A secure, university-exclusive platform for SASTRA students to report and reclaim lost or found items, featuring AI-assisted descriptions and real-time status tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
