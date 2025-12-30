@@ -20,7 +20,7 @@ interface ChatInboxProps {
 const ChatInbox: React.FC<ChatInboxProps> = ({ items, user, onClearChat, showConfirm }) => {
   const isAdmin = checkIsAdmin(user.email);
 
-  // Admin sees all campus coordination; Students see their own interactions.
+  
   const activeConversations = items
     .filter(item => (
       isAdmin ||
