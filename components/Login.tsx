@@ -19,7 +19,6 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess, theme, onToggleTheme }) =
   const [isLoading, setIsLoading] = useState(false);
   const [hasAgreed, setHasAgreed] = useState(false);
 
-  // Onboarding fields
   const [name, setName] = useState('');
   const [branch, setBranch] = useState(BRANCHES[0]);
   const [year, setYear] = useState(YEARS[0]);
