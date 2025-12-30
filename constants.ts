@@ -119,7 +119,7 @@ export const MOCK_ITEMS = [
     type: 'FOUND',
     description: 'Found a watch with a black nylon strap on a wooden desk in the Mechanical Engineering workshop. It has a distinct black dial with white numbers.',
     location: 'Forging Lab - VKJ',
-    imagePaths: ['https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY='],
+    imagePaths: ['https://finest-hour.co.uk/product/the-lost-navigator-6bb-raf-wristwatch-c-1976/'],
     reporterId: 'user303',
     reporterName: 'Priya Dharshini',
     date: '14-02-2025',
